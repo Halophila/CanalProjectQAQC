@@ -49,6 +49,7 @@ seawall_checker <- function(df){
     names
 
   for (i in seq_along(species)){
+    results = 0
     tested_species = species[i]
     results[i] = ifelse(all(df[[tested_species]] %in% c(0, 0.1, 0.5, 1, 2, 3, 4, 5, NA)),
                         yes = "All good", no = "There's a problem")
