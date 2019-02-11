@@ -1,2 +1,3 @@
 # CanalProjectQAQC
-Functions to check quality of sediment and plant data
+R Functions to check quality of sediment and plant data
+
