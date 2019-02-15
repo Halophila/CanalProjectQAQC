@@ -1,6 +1,6 @@
 # Canal Project QAQC
 
-Are you entering data for the canal project? Using these R functions to check your data tables are complete and realistic. This requires standard data entry templates
+Are you entering data for the canal project? Using these R functions to check that your data tables are complete and realistic. This requires standard data entry templates
 
 Functions:</br>
 ```sediment_checker``` table for sediment nutients and isotopes </br>
