@@ -3,7 +3,7 @@
 Are you entering data for the canal project? Using these R functions to check your data tables are complete and realistic. This requires standard data entry templates
 
 Functions:
-```sediment_checker``` table for sediment nutients and isotopes
+```sediment_checker``` table for sediment nutients and isotopes </br>
 ```seawall_checker``` table for seawall community BB scores
 ```outside_checker``` table for quadrats outside canal mouth
 ```inside_checker``` table for transect inside canal
