@@ -5,9 +5,9 @@ fish_checker <- function(df){
                   277, 278, 282, 287, 288, 290, 293, 458,
                   459, 472, 476, 114, 118, 120, 145, 150, 152)
 
-  org_fish_list <- c("Angel fish" ,"Barracuda", "blue crab","brown striped","eagle ray", "French grunt", "jack" ,"juvenile"  ,"Juvenile" , "manatee" ,
-                     "Mangrove snapper", "Menidia", "Minnow", "Mullet", "Needlefish", "Nurse Shark", "Parrot fish unkn", "Pin fish" , "Rainbow parrot",
-                     "Sardine", "sea hair", "Sgt major", "snook", "Stoplight parrot", "tarpon", "unknown", "Unkwn grunt")
+  org_fish_list <- c("angel fish" ,"barracuda", "blue crab","brown striped","eagle ray", "french grunt", "jack", "juvenile", "manatee" ,
+                     "mangrove snapper", "menidia", "minnow", "mullet", "needlefish", "nurse shark", "parrot fish unkn", "pin fish" , "rainbow parrot",
+                     "sardine", "sea hair", "sgt major", "snook", "stoplight parrot", "tarpon", "unknown", "unkwn grunt")
 
 
   cat("\n Checking data quality \n")
